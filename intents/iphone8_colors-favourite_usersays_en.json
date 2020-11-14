@@ -1,0 +1,56 @@
+[
+  {
+    "id": "5ee24f57-9901-4455-b2a4-945f8d8d57a1",
+    "data": [
+      {
+        "text": "I prefer ",
+        "userDefined": false
+      },
+      {
+        "text": "blue",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497273078
+  },
+  {
+    "id": "79618436-d136-4b2c-8635-95405f3b42b0",
+    "data": [
+      {
+        "text": "My favourite color is ",
+        "userDefined": false
+      },
+      {
+        "text": "pink",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497273078
+  },
+  {
+    "id": "211f76e3-5e39-421a-bf1a-6bedd88c4f20",
+    "data": [
+      {
+        "text": "white",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497273078
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "1b360071-326e-4dcc-82ac-f27a1303239d",
+  "name": "faq-iphone",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "faq-iphone",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No, the Mac App Store can only be used on a Mac."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1466751765,
+  "fallbackIntent": false
+}

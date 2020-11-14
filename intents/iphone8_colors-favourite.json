@@ -1,0 +1,43 @@
+{
+  "id": "e5338688-07ca-4919-a199-9df98f6d4911",
+  "parentId": "be078eda-5127-4bdb-bd43-099b773ac40d",
+  "rootParentId": "be078eda-5127-4bdb-bd43-099b773ac40d",
+  "name": "iphone8_colors-favourite",
+  "auto": true,
+  "contexts": [
+    "iphone8_colors-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "iphone8_colors.favourite",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "41fcbfb3-376f-4814-b8ed-518d05402c0b",
+          "dataType": "@sys.color",
+          "name": "color",
+          "value": "$color",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1497275600,
+  "fallbackIntent": false,
+  "events": []
+}

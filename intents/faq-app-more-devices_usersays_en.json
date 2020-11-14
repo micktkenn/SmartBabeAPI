@@ -1,0 +1,38 @@
+[
+  {
+    "id": "fa48f5a3-6e98-41e0-ad18-0d1cf63f10e5",
+    "data": [
+      {
+        "text": "Can I use apps from the Mac App Store on more than one computer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db926c81-b11c-4584-83e1-6899fd72e462",
+    "data": [
+      {
+        "text": "On what devices can I use the app I downloaded?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0b1376a-ad9c-4b79-9129-c9d7ac99319a",
+    "data": [
+      {
+        "text": "Can I use an app on all of my devices?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

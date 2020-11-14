@@ -1,0 +1,33 @@
+{
+  "id": "0a4f7f6f-ce2f-4ab1-8a22-7ec678f3b888",
+  "parentId": "ac97cb43-905f-4f5a-badb-001840dee622",
+  "rootParentId": "ac97cb43-905f-4f5a-badb-001840dee622",
+  "name": "buy-iphone8 - custom",
+  "auto": true,
+  "contexts": [
+    "buy-iphone8-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "buy-iphone8.buy-iphone8-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1503734026622,
+  "fallbackIntent": false,
+  "events": []
+}

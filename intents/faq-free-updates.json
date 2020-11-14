@@ -1,0 +1,28 @@
+{
+  "id": "1e14bce2-e1eb-4160-b31d-0380cfd39d78",
+  "name": "faq-free-updates",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "faq-free-updates",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Updates for apps from the Mac App Store are free. Updates will appear in the Updates tab of the Mac App Store when they are available."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1466751869,
+  "fallbackIntent": false
+}

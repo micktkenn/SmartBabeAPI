@@ -1,0 +1,28 @@
+{
+  "id": "672d4121-be37-4985-8d35-7dedcdb12290",
+  "name": "faq-must-sign-in",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "faq-must-sign-in",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You may be asked for your Apple ID and password the first time you use an app. You won\u0027t have to provide them again unless you use the app on a different computer."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1466751393,
+  "fallbackIntent": false
+}

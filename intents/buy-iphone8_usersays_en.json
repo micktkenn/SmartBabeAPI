@@ -1,0 +1,38 @@
+[
+  {
+    "id": "28d400a2-847b-4968-933c-11f958384abf",
+    "data": [
+      {
+        "text": "I want to buy ",
+        "userDefined": false
+      },
+      {
+        "text": "Iphone 8",
+        "alias": "iphone8",
+        "meta": "@iphone8",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497293389
+  },
+  {
+    "id": "980fd83e-d2dd-4df0-abe0-ba994c7b01a7",
+    "data": [
+      {
+        "text": "I want to buy the ",
+        "userDefined": false
+      },
+      {
+        "text": "latest Iphone",
+        "alias": "iphone8",
+        "meta": "@iphone8",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

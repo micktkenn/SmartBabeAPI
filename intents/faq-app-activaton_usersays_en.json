@@ -1,0 +1,26 @@
+[
+  {
+    "id": "e1fd5083-f718-44df-a517-784dcb98fe46",
+    "data": [
+      {
+        "text": "Do apps from the Mac App Store require activation keys, serial numbers, or registration numbers?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "326bdc52-3b0d-4b5a-9e6b-6c5784a35d4f",
+    "data": [
+      {
+        "text": "Do i need to register to use the app?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

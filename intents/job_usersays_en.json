@@ -1,0 +1,62 @@
+[
+  {
+    "id": "a4c2ed2b-9fc1-49b6-9ee5-ac4af5b576bd",
+    "data": [
+      {
+        "text": "Is there a job vacancy in your store?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1478697754
+  },
+  {
+    "id": "8e8f78af-fe1d-4e64-9384-4be9f75cac2b",
+    "data": [
+      {
+        "text": "Do you have a job opening?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1478697754
+  },
+  {
+    "id": "bde676b4-82f0-4965-9afe-a8691716808c",
+    "data": [
+      {
+        "text": "Are you looking for new employees?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1478697754
+  },
+  {
+    "id": "7572dc6e-69e1-4730-ad9e-9949ff6138d7",
+    "data": [
+      {
+        "text": "I\u0027m looking for new career opportunity.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1478697754
+  },
+  {
+    "id": "44f9daee-6352-4a72-b4fe-520c4b865b77",
+    "data": [
+      {
+        "text": "Can I start a career in your company?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1478697754
+  }
+]

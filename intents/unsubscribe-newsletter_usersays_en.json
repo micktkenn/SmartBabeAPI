@@ -1,0 +1,26 @@
+[
+  {
+    "id": "fed087ed-b4ea-432f-a177-fb8fa52f8935",
+    "data": [
+      {
+        "text": "unsubscribe from newsletter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "311cd5d7-31eb-4a1c-894a-61d261e5004d",
+    "data": [
+      {
+        "text": "unsubscribe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

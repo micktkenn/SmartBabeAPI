@@ -1,0 +1,50 @@
+[
+  {
+    "id": "40ded0b3-e501-492f-870d-22fdc4ca5d49",
+    "data": [
+      {
+        "text": "When will my mac be delivered?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00ea2ec1-8555-472a-8e91-b4fa8ac66c02",
+    "data": [
+      {
+        "text": "When is the delivery time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bbe917ce-0073-4949-94f1-ec9d4af44b5b",
+    "data": [
+      {
+        "text": "When will you deliver the headphones I ordered?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b145e3b-2e68-4216-82ec-e051bf2cc768",
+    "data": [
+      {
+        "text": "I just purchased a mac from you. When will it get delivered?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1467882794
+  }
+]

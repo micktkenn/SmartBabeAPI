@@ -1,0 +1,28 @@
+{
+  "id": "c62c12ad-92a5-4767-8f24-ba90311da23a",
+  "name": "faq-redownload",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "faq-redownload",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes. You can redownload apps from the Mac App Store as long as the app remains available. You may be asked to enter the Apple ID and password you initially used to download the app."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1467023607,
+  "fallbackIntent": false
+}

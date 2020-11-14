@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1e392c84-796a-4057-b6f5-ec95a679119f",
+    "data": [
+      {
+        "text": "If I have already downloaded an app from the Mac App Store, can I redownload it for free?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "474b9fa1-dc2f-449a-9ac5-6d66ab277265",
+    "data": [
+      {
+        "text": "Can I redownload an app for free?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1467023607
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "4a2177d4-cf8d-4967-8ae3-9679dc0b0212",
+  "name": "faq-app-activaton",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "faq-app-activaton",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No, but you may be asked for your Apple ID and password the first time you use an app."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1467023818,
+  "fallbackIntent": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": "d088eba1-0010-42a0-bb2a-51d6b0050e3a",
+  "name": "faq-purchase-backup",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "faq-purchase-backup",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We recommend backing up the contents of your Mac regularly, including photos, purchased movies, TV shows, and apps, to ensure that you can easily recover them in the event of a loss. If you need to recover a previously purchased app from the Mac App Store, you can redownload it if it is still available."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1466751520,
+  "fallbackIntent": false
+}

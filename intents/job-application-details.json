@@ -1,0 +1,112 @@
+{
+  "id": "3b1514db-8456-4188-a725-28528c20b9c7",
+  "name": "job-application-details",
+  "auto": true,
+  "contexts": [
+    "job_application"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "detailed-application",
+      "affectedContexts": [
+        {
+          "name": "job_application",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "dd059d92-a4b5-419c-8307-d1639a0d3aa2",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "user-name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Can you write your name?"
+            },
+            {
+              "lang": "en",
+              "value": "Tell me your name"
+            }
+          ]
+        },
+        {
+          "id": "6a200a87-a7e9-4d54-83dc-bbe9bca6bcca",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "previous-job",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your current job position?"
+            },
+            {
+              "lang": "en",
+              "value": "Where are you working now?"
+            },
+            {
+              "lang": "en",
+              "value": "What is your current job title?"
+            }
+          ]
+        },
+        {
+          "id": "4a336d49-dd1f-405b-b492-2fb2fc396a2b",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "years-of-experience",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How many years of experience do you have?"
+            },
+            {
+              "lang": "en",
+              "value": "Tell me how many years of experience in the field do you have?"
+            }
+          ]
+        },
+        {
+          "id": "d6ad24e1-9c05-4d63-8330-a4714f5f7a29",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "phone-number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Tell me your phone number"
+            },
+            {
+              "lang": "en",
+              "value": "At what number can I reach you?"
+            },
+            {
+              "lang": "en",
+              "value": "Can you give me your phone number, so we can call you?"
+            }
+          ]
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Thank you $user-name for your application. My boss will call you ASAP! Have a great day!",
+            "Your application for the job #job_application.job-vacancy will be processed as soon as possible. We\u0027ll contact you shortly."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1474960901,
+  "fallbackIntent": false
+}

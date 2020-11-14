@@ -1,0 +1,31 @@
+{
+  "id": "96be5030-d827-4c9b-ab8d-f5bf071f82a7",
+  "name": "faq-delivery-time",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "faq-delivery",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "The expected time of delivery is 3 work days after the payment received.",
+            "We\u0027ll give it our best and deliver the goods in three days or sooner."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1474274715,
+  "fallbackIntent": false
+}

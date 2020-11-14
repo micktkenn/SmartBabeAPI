@@ -1,0 +1,32 @@
+{
+  "id": "4a68beb3-7487-4c33-96c0-ec3c5ea053e6",
+  "name": "no-job-apply",
+  "auto": true,
+  "contexts": [
+    "job"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "no-job-apply",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "No problem. Talk to me again and if we have some more job openings I\u0027ll let you know.",
+            "Ok. We can talk another time."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false
+}

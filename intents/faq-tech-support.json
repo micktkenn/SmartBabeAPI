@@ -1,0 +1,28 @@
+{
+  "id": "e0b31ee1-72ce-4f99-a4e9-f5c497bbd93a",
+  "name": "faq-tech-support",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "faq-tech-support",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If you experience a technical issue with an app, first contact the developer of the app for assistance. Their support contact information may be found on the app\u0027s page in the Mac App Store."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1466751688,
+  "fallbackIntent": false
+}

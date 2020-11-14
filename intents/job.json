@@ -1,0 +1,55 @@
+{
+  "id": "f751541c-4a12-465b-b776-63e87f9a08e0",
+  "name": "job",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "job-enquiry",
+      "affectedContexts": [
+        {
+          "name": "job",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": [
+            "We are looking for new staff. We need an assistant in our store. And we\u0027re looking for new accountant. Are you interested? For what position would you like to apply?",
+            "You\u0027ve come at the right time. We\u0027re just looking for new sales assistants and we need a good accountant. Would you like to apply?"
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "jobs",
+          "replies": [
+            "sales assistant",
+            "not interested",
+            "accountant"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1502697776,
+  "fallbackIntent": false,
+  "events": []
+}

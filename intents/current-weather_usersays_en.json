@@ -1,0 +1,76 @@
+[
+  {
+    "id": "3ab087e4-2914-4888-9edf-a7181f69ba33",
+    "data": [
+      {
+        "text": "What\u0027s the weather like?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e516361d-cc0d-4335-8b5a-075f831bbc09",
+    "data": [
+      {
+        "text": "Weather report for ",
+        "userDefined": false
+      },
+      {
+        "text": "Rome",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": ", please!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3e63820-ea9b-43b3-bc53-deb1ac37499f",
+    "data": [
+      {
+        "text": "What\u0027s the weather like in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0081748-dceb-46c3-8fc0-c88c3017161f",
+    "data": [
+      {
+        "text": "Current weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "Ljubljana",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

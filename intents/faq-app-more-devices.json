@@ -1,0 +1,31 @@
+{
+  "id": "517b27cc-d058-47c8-98d0-0beba8c47513",
+  "name": "faq-app-more-devices",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "faq-add-devices",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Apps from the Mac App Store may be used on any Macs that you own or control for your personal use.",
+            "You can use the app from Mac store on any device you have. No problem."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1466751043,
+  "fallbackIntent": false
+}

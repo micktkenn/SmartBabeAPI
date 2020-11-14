@@ -1,0 +1,28 @@
+{
+  "id": "81074bf9-ba08-4398-a8bd-908ff18dbbb6",
+  "name": "faq-gift-card",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "faq-gift-card",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "iTunes Gift Cards can be used to make purchases from the Mac App Store. Apple Store Gift Cards are redeemable in Apple retail stores, and may not be used on the Mac App Store."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1466751741,
+  "fallbackIntent": false
+}

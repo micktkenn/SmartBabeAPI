@@ -1,0 +1,29 @@
+{
+  "id": "a41c4df7-92ef-406d-bcd3-1dc8c91fa9f4",
+  "name": "unsubscribe-newsletter",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "unsubscribe",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1502873715236,
+  "fallbackIntent": false,
+  "events": []
+}

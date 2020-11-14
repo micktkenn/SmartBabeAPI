@@ -1,0 +1,98 @@
+[
+  {
+    "id": "b111fa9d-064c-4fbe-99db-fff87fc344da",
+    "data": [
+      {
+        "text": "no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06c41ae2-7dff-4b81-bece-bcce291adbab",
+    "data": [
+      {
+        "text": "not right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ffce642-3fb1-4dea-aa59-18b7a7fa5a3e",
+    "data": [
+      {
+        "text": "I won\u0027t apply",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ef8e67e-a086-4e07-bb52-34a624338184",
+    "data": [
+      {
+        "text": "Nothing interesting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cee0adff-aa04-453a-b1e1-7985dbefcb00",
+    "data": [
+      {
+        "text": "I\u0027ll apply later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d712a1f3-aa1e-46fd-bf9e-8ea92f39361f",
+    "data": [
+      {
+        "text": "Maybe later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09a05247-9a5a-4cfb-847d-6144990f48f7",
+    "data": [
+      {
+        "text": "Not interested right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e8a5261-1914-4c07-9238-d235d816ddb2",
+    "data": [
+      {
+        "text": "None",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

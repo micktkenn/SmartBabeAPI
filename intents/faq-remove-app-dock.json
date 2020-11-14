@@ -1,0 +1,28 @@
+{
+  "id": "2c93d903-5bd7-4c4a-9512-86db538f3bf5",
+  "name": "faq-remove-app-dock",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "faq-remove-app-dock",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "To remove an app from the Dock, drag it out of the Dock. This does not remove the app from your Applications folder. To re-add it to the Dock, drag it from the Applications folder back to the Dock."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1466751840,
+  "fallbackIntent": false
+}

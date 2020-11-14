@@ -1,0 +1,28 @@
+{
+  "id": "8e87fb45-3855-4536-86c8-dc369ac44c1e",
+  "name": "faq-personal-info",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "faq-personal-info",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Apple values your privacy.  To learn how Apple may use your information, see Apple\u0027s Privacy Policy, which can be found at www.apple.com/privacy."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1466751907,
+  "fallbackIntent": false
+}

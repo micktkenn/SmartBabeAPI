@@ -1,0 +1,118 @@
+{
+  "id": "a69c5fef-faa6-450e-9e5f-77a4d29f5e01",
+  "name": "surprise me",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Here you go"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "http://images.all-free-download.com/images/graphicthumb/red_roses_background_picture_166779.jpg"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Gift no. 1",
+          "subtitle": "something cool for you",
+          "imageUrl": "http://www.ukrainegiftdelivery.com/v/vspfiles/assets/images/Christmas%20gifts%20to%20Ukraine.jpeg",
+          "buttons": [
+            {
+              "text": "Get present",
+              "postback": "https://www.google.com"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Gift No.2",
+          "subtitle": "Get",
+          "imageUrl": "http://www.officexpress.co.uk/wp-content/uploads/2014/10/christmas-presents.jpg",
+          "buttons": []
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "What do you prefer?",
+          "replies": [
+            "Be Happy",
+            "Be Beautiful",
+            "Be Smart",
+            "Be Rich"
+          ]
+        },
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "en",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "generic",
+                  "elements": [
+                    {
+                      "title": "Welcome to Peter\u0027s Hats",
+                      "image_url": "http://www.psst.ph/wp-content/uploads/2016/11/christmas-presents.jpg",
+                      "subtitle": "We\u0027ve got the right hat for everyone.",
+                      "default_action": {
+                        "type": "web_url",
+                        "url": "https://peterssendreceiveapp.ngrok.io/view?item\u003d103"
+                      },
+                      "buttons": [
+                        {
+                          "type": "web_url",
+                          "url": "https://petersfancybrownhats.com",
+                          "title": "View Website"
+                        },
+                        {
+                          "type": "web_url",
+                          "url": "https://yahoo.com",
+                          "title": "Another link"
+                        },
+                        {
+                          "type": "phone_number",
+                          "title": "Call Representative",
+                          "payload": "+15105551234"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500537455,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "ac97cb43-905f-4f5a-badb-001840dee622",
+  "name": "buy-iphone8",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "buy.iphone8",
+      "affectedContexts": [
+        {
+          "name": "buy-iphone8-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4b2a0a5e-1240-421b-bc12-9208c61e360c",
+          "dataType": "@iphone8",
+          "name": "iphone8",
+          "value": "$iphone8",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1497293389,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "8115cda8-4ffd-4cf1-bcdb-264048ee20f4",
+  "name": "faq-where-app",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "faq-where-app",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "New apps are downloaded to the Applications folder on your Mac, and the app\u0027s icon will be placed in the Dock."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1466751806,
+  "fallbackIntent": false
+}
